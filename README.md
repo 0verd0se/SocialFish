@@ -1,8 +1,8 @@
 # SOCIAL FISH
 
-**ONLY DOWNLOAD IT HERE, DO NOT TRUST IN OTHER PLACES.**
 
-This is the official and only repository of the SocialFish project.
+
+This is the not official and only repository of the SocialFish project.
 
 ### MAINTAINERS
 

